@@ -2,5 +2,3 @@ aaa
 bbb
 ccc
 abc
-ddd
-fff
