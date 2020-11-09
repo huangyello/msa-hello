@@ -1,7 +1,3 @@
 bbb
 ccc
 aaa
-ddd
-cherry1
-cherry2
-
