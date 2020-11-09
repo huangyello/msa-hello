@@ -33,15 +33,6 @@ public class Application {
     return "Hello2";
   }
 
-
-  @RequestMapping("/over")
-  public void over() {
-    List<Date> list = new ArrayList<>();
-    while (true){
-      list.add(new Date());
-    }
-  }
-
   public static void main(String[] args) {
     SpringApplication.run(Application.class, args);
   }
